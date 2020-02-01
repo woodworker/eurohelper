@@ -6,6 +6,8 @@ This will be a repository of all of my eurorack diy PCBs
 ## Tools
 
 - [x] Prototyping Boards
+  - [EuroHelperM](EuroHelperM/)
+  - [EuroHelperL](EuroHelperL/)
 - [ ] Power Distribution Board
 - [ ] Line In
 - [ ] Line Out
